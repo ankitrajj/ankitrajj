@@ -1,16 +1,18 @@
-# Hi there 👋, I'm Ankit Raj
+# Hi there, I'm Ankit Raj
 
-**Java Full Stack Developer** passionate about building scalable web apps.  
-Hand-on experience with Spring Boot, React, and Microservices.  
+**Java Full Stack Developer** passionate about building scalable web apps and clean REST APIs  
+Hand-on experience with Spring Boot, Microservices, Hibernate, Angular and Microservices.  
 Reach me at: [LinkedIn](https://www.linkedin.com/in/ankitrajj) | [Portfolio](https://ankitrazzportfolio.netlify.app/)  
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 - Java | Spring Boot | Hibernate  
-- React | HTML | CSS | JavaScript  
-- Oracle | MySQL | Redis | H2 | Docker  
-
+- Angular | React | JavaScript  
+- Oracle | MySQL | MongoDb | Redis | H2 
+- AWS
+- Docker | Kubernates | Jenkins (CI/CD Pipeline)
+- 
 ---
 
 
