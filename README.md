@@ -2,7 +2,7 @@
 
 **Java Full Stack Developer** passionate about building scalable web apps.  
 Hand-on experience with Spring Boot, React, and Microservices.  
-Reach me at: [LinkedIn](https://www.linkedin.com/in/ankitrajj) | [Portfolio](https://ankitrajj.github.io)  
+Reach me at: [LinkedIn](https://www.linkedin.com/in/ankitrajj) | [Portfolio](https://ankitrazzportfolio.netlify.app/)  
 
 ---
 
