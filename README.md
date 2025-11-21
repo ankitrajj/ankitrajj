@@ -7,12 +7,12 @@ Reach me at: [LinkedIn](https://www.linkedin.com/in/ankitrajj) | [Portfolio](htt
 ---
 
 ###  Tech Stack
-- Java | Spring Boot | Hibernate  
-- Angular | React | JavaScript  
-- Oracle | MySQL | MongoDb | Redis | H2 
-- AWS
-- Docker | Kubernates | Jenkins (CI/CD Pipeline)
-- 
+- **Languages:** Java | JavaScript | SQL
+- **Frameworks:** Spring Boot | Hibernate | Angular | React  
+- **Databases:** Oracle | MySQL | MongoDb | Redis | H2 
+- **Cloud:** AWS
+- **Tools:** Docker | Kubernates | Jenkins (CI/CD Pipeline)
+
 ---
 
 
