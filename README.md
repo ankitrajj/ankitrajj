@@ -7,11 +7,12 @@ Reach me at: [LinkedIn](https://www.linkedin.com/in/ankitrajj) | [Portfolio](htt
 ---
 
 ###  Tech Stack
-- **Languages:** Java | JavaScript | SQL
-- **Frameworks:** Spring Boot | Hibernate | Angular | React  
+- **Languages:** Java | JavaScript | TypeScript | SQL | PL/SQL | NoSQL
+- **Frameworks:** Spring Boot | Hibernate | Node.js | Angular | React  
 - **Databases:** Oracle | MySQL | MongoDb | Redis | H2 
-- **Cloud:** AWS
-- **Tools:** Docker | Kubernates | Jenkins (CI/CD Pipeline)
+- **Cloud:** AWS | Linux
+- **Tools:** Docker | Kubernates | Jenkins (CI/CD Pipeline) | Postman | Git | Maven | SonarQube | Jira | STS IDE
+- **Concepts:** Data Structures, OOP Principles, SOLID Principles, Design Patterns, DBMS, REST API Design
 
 ---
 
